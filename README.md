@@ -2,9 +2,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: a0131616@u.nus.edu 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/rachel-soh-yy) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
